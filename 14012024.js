@@ -1,4 +1,4 @@
-//! Problem Link : 
+//! Problem Link : https://www.geeksforgeeks.org/problems/find-duplicate-rows-in-a-binary-matrix/1
 
 function repeatedRows(Matrix, M, N) {
     console.log(M,N)
