@@ -1,4 +1,4 @@
-# Problem Link https://www.geeksforgeeks.org/problems/children-sum-parent/
+# Problem Link https://www.geeksforgeeks.org/problems/children-sum-parent/1
 class Solution:
     def isSumProperty(self, root):
         # code here
